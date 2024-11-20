@@ -49,9 +49,16 @@ h1 {
     transition: 0.3s ease;
 }
 
+.tab:hover {
+    color: #000000;
+}
+
 .tab.currentTab {
     color: #4a90e2;
     border-bottom: 2px solid #4a90e2;
+}
+.tab.currentTab:hover {
+    color: #000000;
 }
 
 .formContainer {
