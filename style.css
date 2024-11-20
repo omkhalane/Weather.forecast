@@ -152,8 +152,3 @@ ul li:hover {
     background-color: #f0f4f8;
 }
 
-.errorContainer{
-    align-items: center;
-    max-width: 10%;
-    margin-bottom: 6px;
-}
